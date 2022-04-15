@@ -18,8 +18,7 @@ Then, I did regularization and feature engineering on data and analyzed house pr
 - 	zipcode
 
 
-
-### Data Used
+#### Data Used
 https://www.century21.com 
 
 
@@ -32,4 +31,5 @@ https://www.century21.com
 - Numpy
 - Sklearn
 
-### Approach:
+
+
