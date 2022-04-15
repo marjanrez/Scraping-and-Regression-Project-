@@ -1,4 +1,4 @@
-![33](https://user-images.githubusercontent.com/42986304/163636134-b5076632-fb57-475d-9b4c-24d1084fae5d.jpeg)
+![33](https://user-images.githubusercontent.com/42986304/163636227-349fb0f7-c826-4535-b381-907d5146d57c.jpeg)
 
 ## Scraping_and_Regression_Project
 
