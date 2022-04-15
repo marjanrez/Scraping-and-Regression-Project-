@@ -1,4 +1,4 @@
-![images](https://user-images.githubusercontent.com/42986304/163648730-096ef038-9691-4676-a95d-2d79f91ba429.jpeg)
+![images](https://user-images.githubusercontent.com/42986304/163648903-dfd4b67a-876d-44c0-8482-bfc71cc59154.jpeg)
 
 ## Scraping_and_Regression_Project
 
