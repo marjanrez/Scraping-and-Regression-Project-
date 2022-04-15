@@ -1,4 +1,4 @@
-![Sell_a_home](https://user-images.githubusercontent.com/42986304/163647925-8525aa67-a841-4d8d-a6cc-3c809ecba661.png)
+![images](https://user-images.githubusercontent.com/42986304/163648730-096ef038-9691-4676-a95d-2d79f91ba429.jpeg)
 
 ## Scraping_and_Regression_Project
 
