@@ -16,6 +16,7 @@ Then, I did regularization and feature engineering on data and analyzed house pr
 - 	City	
 - 	State	
 - 	zipcode
+- 	Region
 
 
 #### Data Used
