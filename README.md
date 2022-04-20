@@ -19,7 +19,7 @@ Then, I did regularization and feature engineering on data and analyzed house pr
 - 	Region
 
 
-#### Data Used
+#### Data collected from:
 https://www.century21.com 
 
 
@@ -31,6 +31,24 @@ https://www.century21.com
 - Pandas
 - Numpy
 - Sklearn
+
+#### There are three Jupyter Notebooks:
+- Webscrap century21 preprocessing : contains python code for scraping the century21 website and parsing data, initial data cleaning and organizing.
+- Analysis and visualization : contains python code of the final data cleaning, EDA, analysis and data visualization done for this project.
+- Regression_Analysis : contains modelings and evaluations
+
+There is also two pdf files:
+- Presentation slides used to present this project 
+- Write up the project.
+
+##### some other works to get ideas:
+- https://github.com/ar2849/Metis-Project-Two/blob/main/Project%20-%202%20Metis%20Deck.pdf
+- https://medium.com/@websitescraper.com/how-to-scrape-zillow-for-real-estate-listings-using-python-and-lxml-aac3eb0c26d7
+- https://github.com/CodeSigma91/Project_WebScraping/blob/master/analysis%20and%20visualization.ipynb
+- https://github.com/jiveshs98/Python-Scraping-Real-Estate-Data/blob/master/century21.ipynb
+
+
+
 
 
 
