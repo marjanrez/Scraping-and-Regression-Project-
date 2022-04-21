@@ -37,7 +37,7 @@ https://www.century21.com
 - Analysis and visualization : contains python code of the final data cleaning, EDA, analysis and data visualization done for this project.
 - Regression_Analysis : contains modelings and evaluations
 
-There is also two pdf files:
+There are also two pdf files:
 - Presentation slides used to present this project 
 - Write up the project.
 
